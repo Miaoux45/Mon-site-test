@@ -1,0 +1,46 @@
+p
+{
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    color: black;
+    font-size: 1em
+}
+h1
+{
+    border: 3px blue solid;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px black; 
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    color: red;
+    font-style: italic;
+    font-weight: bold; 
+    text-align: center;
+    font-size: 4em;
+    text-shadow: 6px 6px 6px black;
+   
+}
+h2
+{
+    text-decoration: underline;
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    color: green;
+    font-style: italic;
+    font-size: 2.5em;
+}
+body
+{
+    color : white;
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    background-repeat:no-repeat center fixed;
+    -webkit-background-size: cover; /* pour Chrome et Safari */
+  -moz-background-size: cover; /* pour Firefox */
+  -o-background-size: cover; /* pour Opera */
+  background-size: cover; /* version standardisée */
+    background-image: url("https://www.wallpapertip.com/wmimgs/83-838362_web-developer.jpg");
+    background-size: 100%;
+}  
+a:visited
+{
+   color: #888888;
+}
+
+ 
